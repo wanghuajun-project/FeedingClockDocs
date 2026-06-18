@@ -1,6 +1,6 @@
 # FeedingClockDocs
 
-NourishBaby（配方奶喂养专家）App 的 **隐私政策**、**免责声明** 公开页面。
+喂奶记（FeedClock）App 的 **隐私政策**、**免责声明** 公开页面。
 
 ## 页面
 
