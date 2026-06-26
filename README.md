@@ -1,15 +1,25 @@
 # FeedingClockDocs
 
-喂奶记（FeedClock）App 的 **隐私政策**、**免责声明** 公开页面。
+喂奶记（BottleNudge）App 的 **隐私政策**、**免责声明** 公开页面。
 
 ## 页面
 
 | 文件 | 说明 |
 |------|------|
-| [privacy-policy.html](./privacy-policy.html) | 隐私政策（简中 / 繁中 / English） |
-| [disclaimer.html](./disclaimer.html) | 免责声明（简中 / 繁中 / English） |
+| [privacy-policy.html](./privacy-policy.html) | 隐私政策（简中 / 繁中 / English / 日本語 / 한국어） |
+| [disclaimer.html](./disclaimer.html) | 免责声明（简中 / 繁中 / English / 日本語 / 한국어） |
 
-页顶提供语言锚点导航，可跳转至对应语言段落。
+页顶提供语言锚点导航（`#zh-hans` `#zh-hant` `#en` `#ja` `#ko`），可跳转至对应语言段落。
+
+## 支持语言
+
+| 锚点 | 语言 | 应用名称 |
+|------|------|----------|
+| `#zh-hans` | 简体中文 | 喂奶记 |
+| `#zh-hant` | 繁体中文 | 餵奶伴 |
+| `#en` | English | BottleNudge |
+| `#ja` | 日本語 | BottleNudge |
+| `#ko` | 한국어 | BottleNudge |
 
 ## 公开 URL（GitHub Pages）
 
@@ -28,6 +38,6 @@ wanghuajun0731@outlook.com
 
 ## 关联代码仓库
 
-[iOS 工程 BabyClockProject](https://github.com/wanghuajun-project/BabyClockProject)
+[iOS 工程 BottleNudge-iOS](https://github.com/wanghuajun-project/BottleNudge-iOS)
 
 `Info.plist` → `NourishBabyLegalBaseURL` = `https://wanghuajun-project.github.io/FeedingClockDocs`
